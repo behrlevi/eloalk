@@ -1,0 +1,8 @@
+Az kiralyok.txt első sorában volt egy szóköz karakter az első sor végén,
+ami miatt a feladatleírásban megjelenített kimenetekben két Árpád ház jelenik meg.
+Vettem a bároságot, hogy ezt kijavítsam az állományban.
+Ha ezt a Tanár Úr szándékosan hagyta benne, az esetben elnézést kérek.
+
+A programok Java 21-ben íródtak.
+
+A Lakasok program Maven/GSON-t használ a json beolvasásához.
